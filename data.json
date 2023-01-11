@@ -1,32 +1,32 @@
 {
 	"name": "Jeffrey Zalischi",
-	"avatar": "https://res.cloudinary.com/dcfqlsnzh/image/upload/v1673398450/p1cmzviv5mteofha8y3c.png",
+	"avatar": "https://res.cloudinary.com/dcfqlsnzh/image/upload/v1673407792/oe9d5b6obw6jlvgunse8.png",
 	"bio": "lorem ",
 	"links": [
 		{
 			"title": " Personal Portfolio",
-			"href": "http:.....",
-			"image": "https://res.cloudinary.com/dcfqlsnzh/image/upload/v1673398450/p1cmzviv5mteofha8y3c.png"
+			"href": "https://jffry93.github.io/react-portfolio/",
+			"image": "https://res.cloudinary.com/dcfqlsnzh/image/upload/v1673407792/oe9d5b6obw6jlvgunse8.png"
 		},
 		{
 			"title": "💵 TaxTracker - MERN",
-			"href": "https://res.cloudinary.com/dcfqlsnzh/image/upload/v1673386609/ut4qvnkwjioh2okiq6hw.png"
+			"href": "https://taxtracker.onrender.com/"
 		},
 		{
 			"title": "🌦 Weather - TypeScript",
-			"href": "https://res.cloudinary.com/dcfqlsnzh/image/upload/v1673386609/ut4qvnkwjioh2okiq6hw.png"
+			"href": "https://jffry93.github.io/weatherAPI/"
 		},
 		{
 			"title": "🎥 Actor Website - JavaScript",
-			"href": "https://res.cloudinary.com/dcfqlsnzh/image/upload/v1673386609/ut4qvnkwjioh2okiq6hw.png"
+			"href": "https://jffry93.github.io/actor-portfolio/"
 		},
 		{
 			"title": "🎶 Music Player - React.js",
-			"href": "https://res.cloudinary.com/dcfqlsnzh/image/upload/v1673386609/ut4qvnkwjioh2okiq6hw.png"
+			"href": "https://jffry93.github.io/lofi-player/"
 		},
 		{
-			"title": "🔮 Zodiac App - ",
-			"href": "https://res.cloudinary.com/dcfqlsnzh/image/upload/v1673386609/ut4qvnkwjioh2okiq6hw.png"
+			"title": "🔮 Zodiac App - ⚠️ Under Construction ⚠️",
+			"href": "https://github.com/emdagen/Zodiac"
 		}
 	],
 	"socials": [

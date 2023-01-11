@@ -3,20 +3,29 @@
 @tailwind utilities;
 
 body {
-	--primary: #150348;
+	--primary: rgb(251, 226, 226);
 	height: 100vh;
 	background-image: linear-gradient(
-		35deg,
-		hsl(251deg 87% 76%) 0%,
-		hsl(250deg 49% 59%) 25%,
-		hsl(256deg 86% 30%) 100%
+		175deg,
+		hsl(240deg 100% 27%) 0%,
+		hsl(235deg 83% 33%) 8%,
+		hsl(231deg 75% 37%) 20%,
+		hsl(227deg 72% 40%) 33%,
+		hsl(223deg 71% 44%) 47%,
+		hsl(219deg 71% 46%) 62%,
+		hsl(215deg 73% 49%) 76%,
+		hsl(211deg 79% 51%) 88%,
+		hsl(207deg 89% 52%) 97%,
+		hsl(202deg 100% 50%) 100%
 	);
 }
 .image-container {
 	border-radius: 4px;
 	background-color: var(--primary);
 }
-
+img {
+	background-color: var(--primary);
+}
 svg {
 	fill: white;
 }
